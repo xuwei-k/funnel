@@ -1,3 +1,4 @@
+-Xmx1G
 -Djava.rmi.server.hostname=0.0.0.0
 -Dcom.sun.management.jmxremote
 -Dcom.sun.management.jmxremote.authenticate=false
